@@ -1,1 +1,2 @@
-print("HI Hello")
+print("Daniel Hi!!")
+print("Seung Jin Hi!!")
